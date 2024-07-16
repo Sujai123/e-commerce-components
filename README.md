@@ -1,2 +1,2 @@
 # e-commerce-components
-Created with CodeSandbox
+Created and Edited with CodeSandbox
