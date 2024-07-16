@@ -1,0 +1,15 @@
+{
+  "name": "@sb-e-commerce/styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass src/styles.scss build/stylesheets/index.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}
